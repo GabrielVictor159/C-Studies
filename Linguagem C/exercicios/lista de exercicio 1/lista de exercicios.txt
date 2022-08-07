@@ -1,0 +1,81 @@
+1 - Faça um algoritmo que leia dois números e exiba o resultado da sua soma:
+
+2 - Faça um algoritmo que receba dois números e ao final mostre a soma, 
+subtração, multiplicação e a divisão dos números lidos:
+
+3 - Escreva um algoritmo que leia quatro notas e mostre a sua média aritmética. 
+Regra (n1+n2+n3+n4)/4:
+
+4 - Deseja-se criar um algoritmo para calcular e exibir na tela a área de um triangulo 
+de base b e altura h, os valores de b e de h são fornecidos pelo usuário via teclado. 
+Crie um algoritmo para calcular a área de um triângulo (area = (b * h)/2):
+
+5 - Faça um algoritmo que lê o valor do raio e calcule a área do círculo 
+correspondente. (Cálculo da área do círculo é Pi*R*R):
+
+6 - Dado o algoritmo:
+Var
+msg:character
+num:inteiro
+inicio
+leia (num)
+se num > 0 entao
+ msg:= "Número Positivo"
+senao
+ se num < 0 entao msg:= "Número Negativo"
+senao
+ msg:= "zero"
+ fimse
+fimse
+escreva (msg)
+fimalgoritmo
+O que será impresso depois de executado o algoritmo se:
+a) num = 10?
+b) num = 0?
+c) num = -4?
+Versão linguagem C:
+
+7 - Escreva um algoritmo que leia dois valores inteiros e distinto e informe qual é 
+o maior:
+
+8 - Faça um algoritmo que receba quatro notas de um aluno. Faça o algoritmo 
+calcular a média aritmética das notas e em seguida informar "Aprovado" caso a 
+média seja maior ou igual a 5,0. Caso seja menor que 5,0 informar "Reprovado":
+
+9 - Construa um algoritmo que leia três notas de um aluno e calcule a média deste 
+aluno. De acordo com a média obtida escreva o tipo de Conceito que ele obteve. 
+(Para média maior ou igual a 7,0 e menor ou igual a 10, 0 – Conceito A; para média 
+maior ou igual a 5,0 e menor que 7,0 – Conceito B; para média inferior a 5,0 –
+Conceito C):
+
+10 - A partir da idade informada de uma pessoa elabore um algoritmo que informe 
+a sua classe eleitoral, sabendo que menores de 16 não votam (classe eleitoral não 
+votante), que o voto é obrigatório para adultos entre 18 e 65 anos (voto obrigatório) e que o voto é opcional para eleitores entre 16 e 18, ou maiores de 65 anos (voto 
+facultativo):
+
+11 - Um determinado clube de futebol pretende classificar seus atletas em 
+categorias e para isto ele contratou um programador para criar um programa que 
+executasse esta tarefa. Para isso o clube criou uma tabela que continha a faixa 
+etária do atleta e sua categoria. A tabela está demonstrada abaixo: IDADE CATEGORIA De 05 a 10 Infantil De 11 a 15 Juvenil De 16 a 20 Junior De 21 a 25 
+Profissional.
+Construa um programa que solicite o nome e a idade de um atleta e imprima a sua 
+categoria (Utilize a estrutura caso):
+
+12 – Crie um programa em C que calcule quantas notas de 50, 10 e 1 são 
+necessárias para se pagar uma conta cujo valor é fornecido pelo usuário:
+
+13 – Elabore um programa em C para calcular a soma dos primeiros 10 termos da 
+sequência definida a seguir, com o valor A fornecido via teclado. ((7*A)/3) + 
+((7*A)/6) + ((7*A)/12) + ((7*A)/24) + ((7*A)/48) ....
+
+14 – Um número inteiro é considerado triangular se este for o produto de três 
+números inteiros consecutivos, como, por exemplo, 120 = 4 * 5 * 6. Elabore um 
+algoritmo que, após ler um número n, verifique se o mesmo é ou não triangular:
+
+15 – Crie um programa em C para verificar se um número é primo ou não:
+
+16 - Construa um algoritmo que leia três lados de um triângulo, verifique e escreva 
+que tipo de triângulo (equilátero, isósceles e escaleno) eles formam. Considere 
+triângulo equilátero com três lados iguais, triângulo isósceles com dois lados 
+iguais e triângulo escaleno com todos os lados diferentes:
+
